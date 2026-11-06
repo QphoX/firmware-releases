@@ -1,2 +1,2 @@
 # firmware-releases
-Public repositories storing firmware updates for over the air updates
+Public repositoriy storing firmware updates for over the air updates
